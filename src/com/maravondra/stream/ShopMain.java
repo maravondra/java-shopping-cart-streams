@@ -1,8 +1,8 @@
-package com.engeto.stream;
+package com.maravondra.stream;
 
 
-import com.engeto.stream.shopExample.Category;
-import com.engeto.stream.shopExample.ShopItem;
+import com.maravondra.stream.shopExample.Category;
+import com.maravondra.stream.shopExample.ShopItem;
 
 import java.util.Comparator;
 import java.util.List;

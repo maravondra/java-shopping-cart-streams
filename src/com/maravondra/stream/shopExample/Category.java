@@ -1,4 +1,4 @@
-package com.engeto.stream.shopExample;
+package com.maravondra.stream.shopExample;
 
 public enum Category {
     ELECTRONICS(0.21),

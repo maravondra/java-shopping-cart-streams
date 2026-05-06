@@ -1,4 +1,4 @@
-package com.engeto.stream;
+package com.maravondra.stream;
 
 import java.util.Arrays;
 import java.util.List;
